@@ -1,5 +1,5 @@
 //test
 
-class test1
+clajjjss test1
 {
 }
